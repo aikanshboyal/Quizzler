@@ -1,6 +1,10 @@
-# quiz_app
+# Quizzler 
 
-A new Flutter project.
+A new Flutter based Quiz application. 
+
+![quizzer_readme_snap](https://user-images.githubusercontent.com/75120140/121741810-a1435780-cb1c-11eb-8fe5-6d2285569a35.JPG)     ![quizzer_readme_snap1](https://user-images.githubusercontent.com/75120140/121742001-e2d40280-cb1c-11eb-9eab-b289387b8920.JPG)
+
+
 
 ## Getting Started
 
